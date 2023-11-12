@@ -95,6 +95,7 @@ public class BasicController {
         return "basic/attribute";
     }
 
+
     @Data
     static class User {
 
